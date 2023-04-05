@@ -1,4 +1,4 @@
-# BikeStoresPortfolioProject
+# Bike Stores Portfolio Project
 My second portfolio project involves utilizing my SQL and Power BI skills.
 
 The project is based on sample data from bike stores in California, New York, and Texas from the years 2016 to 2018.
