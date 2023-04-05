@@ -1,18 +1,17 @@
 # BikeStoresPortfolioProject
-My second portfolio project where I can use SQL and Power Bi skills.
+My second portfolio project involves utilizing my SQL and Power BI skills.
 
-The project based on sample data of bike stores. 
-The data relate to the years 2016-2018 and three states-California, New York and Texas.
+The project is based on sample data from bike stores in California, New York, and Texas from the years 2016 to 2018.
 
 
 # Project Purpose:
-* Provide information about revenue per year, state and store.
-* Showing the most attractive bike brands.
-* Showing the most effective sales representatives and the most loyal clients.
-* Providing information on the number of orders and the number of customers in each years.
+* To provide information on revenue per year, per state, and per store.
+* To identify the most popular bike brands.
+* To identify the most effective sales representatives and the most loyal clients.
+* To provide information on the number of orders and customers for each year.
 
 ## The tools I used:
-* Microsoft SQL Server management studio to explore data
+* Microsoft SQL Server Management Studio to explore data
 * Power Bi for visualization
 [Bike Store.pdf](https://github.com/weronika2809/BikeStoresPortfolioProject/files/10436809/Bike.Store.pdf)
 
